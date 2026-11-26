@@ -1,5 +1,3 @@
-I've kept **all your existing screenshot paths, image sizes, alignment, and positions exactly as they are**. I've only improved the writing, formatting, headings, and overall presentation to make the README look more polished and professional on GitHub.
-
 # Connect 4 Dots
 
 **Connect 4 Dots** is a two-player strategy game designed for a shared screen, featuring a pixel-art aesthetic inspired by a night-time atmosphere. Players take turns dropping coloured discs into a vertically arranged grid, competing to connect four of their own discs in a continuous line.
