@@ -4,9 +4,9 @@
 
 The game combines classic Connect Four gameplay with animated screens, interactive visual elements, background music, and sound effects to create an engaging local multiplayer experience.
 
-\<p align="center">\
-&#x20; \<img src="screenshots/1-home.png" width="420" alt="Connect 4 Dots home screen">\
-\</p>
+<p align="center">
+  <img src="screenshots/1-home.png" width="420" alt="Connect 4 Dots home screen">
+</p>
 
 ---
 
@@ -27,11 +27,11 @@ The guide introduces players to the game through a sequence of short animated in
 - Click anywhere to advance to the next instruction.
 - The final screen, *Have Fun!*, returns players to the home screen.
 
-\<p align="center">\
-&#x20; \<img src="screenshots/guide-1.png" width="260" alt="Guide: the board is a 6 x 7 grid">\
-&#x20; \<img src="screenshots/guide-3.png" width="260" alt="Guide: drop a disc into a column">\
-&#x20; \<img src="screenshots/guide-5.png" width="260" alt="Guide: four in a row wins">\
-\</p>
+<p align="center">
+  <img src="screenshots/guide-1.png" width="260" alt="Guide: the board is a 6 x 7 grid">
+  <img src="screenshots/guide-3.png" width="260" alt="Guide: drop a disc into a column">
+  <img src="screenshots/guide-5.png" width="260" alt="Guide: four in a row wins">
+</p>
 
 ### 3. Game Instructions
 
@@ -39,9 +39,9 @@ Selecting **Start** opens the instructions screen, providing an overview of the 
 
 Players can review the instructions and select **Continue** to proceed.
 
-\<p align="center">\
-&#x20; \<img src="screenshots/2-instructions.png" width="420" alt="Instructions screen">\
-\</p>
+<p align="center">
+  <img src="screenshots/2-instructions.png" width="420" alt="Instructions screen">
+</p>
 
 ### 4. Player Introduction
 
@@ -52,9 +52,9 @@ A brief loading screen introduces the two players and their assigned disc colour
 
 Player 1 always takes the first turn.
 
-\<p align="center">\
-&#x20; \<img src="screenshots/3-loading.png" width="420" alt="Loading screen showing Player 1 and Player 2">\
-\</p>
+<p align="center">
+  <img src="screenshots/3-loading.png" width="420" alt="Loading screen showing Player 1 and Player 2">
+</p>
 
 ### 5. Gameplay
 
@@ -68,9 +68,9 @@ Gameplay features include:
 - Sound effects accompanying each disc drop.
 - Alternating turns between the two players.
 
-\<p align="center">\
-&#x20; \<img src="screenshots/4-gameplay.png" width="420" alt="Connect 4 Dots gameplay in progress">\
-\</p>
+<p align="center">
+  <img src="screenshots/4-gameplay.png" width="420" alt="Connect 4 Dots gameplay in progress">
+</p>
 
 ### 6. Winning Condition
 
@@ -78,9 +78,9 @@ The first player to connect four discs consecutively in a horizontal, vertical, 
 
 When a winning combination is detected, the four connected discs light up to visually highlight the winning sequence.
 
-\<p align="center">\
-&#x20; \<img src="screenshots/5-four-in-a-row\.png" width="420" alt="Winning combination highlighted on the board">\
-\</p>
+<p align="center">
+  <img src="screenshots/5-four-in-a-row.png" width="420" alt="Winning combination highlighted on the board">
+</p>
 
 ### 7. Winner Screen
 
@@ -88,15 +88,15 @@ Once the game concludes, a dedicated winner screen announces the result and play
 
 Players can choose between:
 
-- **Replay:** Return to the home screen to start another match.
+- **Replay:** Return to the home screen to start a new match.
 - **Exit:** Close the game.
 
 Separate victory screens are displayed depending on which player wins.
 
-\<p align="center">\
-&#x20; \<img src="screenshots/6-player1-wins.png" width="340" alt="Player 1 wins screen">\
-&#x20; \<img src="screenshots/6-player2-wins.png" width="340" alt="Player 2 wins screen">\
-\</p>
+<p align="center">
+  <img src="screenshots/6-player1-wins.png" width="340" alt="Player 1 wins screen">
+  <img src="screenshots/6-player2-wins.png" width="340" alt="Player 2 wins screen">
+</p>
 
 ---
 
@@ -145,4 +145,4 @@ Separate victory screens are displayed depending on which player wins.
 
 ---
 
-Have fun! 🎉 
+Have fun! 🎉
